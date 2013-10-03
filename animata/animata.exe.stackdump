@@ -1,0 +1,3 @@
+Stack trace:
+Frame     Function  Args
+1511442 [sig] animata 10128 C:\Users\Meteor\Dropbox\Laboratory\Art Projects\001-KinectSDKAnimata\animata\animata.exe: *** fatal error - called with threadlist_ix -1
